@@ -1,20 +1,12 @@
   ---
-  title: "home"
-  bg: white     #defined in _config.yml, can use html color like '#010101'
-  color: black  #text color
-  style: center
-  ---
+title: About
+bg: white
+color: black
+style: center
+---
 
-### *Hi there!*
-{: .text-purple}
+### hi there!
 
-<span class="fa-stack subtlecircle" style="font-size:100px; background:rgba(255,166,0,0.1)">
-  <i class="fa fa-circle fa-stack-2x text-white"></i>
-  <i class="fa fa-bicycle fa-stack-1x text-orange"></i>
-</span>
+<img src="img/lavonne.jpg" alt="A photo of Lavonne" width="500" height="600">
 
-# I'm Lavonne and here's a space to learn more about me.
-{: .text-purple}
-
-I'm a Duke student currently searching for full-time PM roles.
-
+# my name is Lavonne and here's a space to learn a little more about me.
