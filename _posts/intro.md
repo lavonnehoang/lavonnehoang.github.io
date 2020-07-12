@@ -1,4 +1,4 @@
-  ---
+---
 title: About
 bg: white
 color: black
