@@ -6,3 +6,5 @@ fa-icon: paint-brush
 ---
 
   #### A new section- oh the humanity!
+
+Here is where you can learn about me.
